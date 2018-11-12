@@ -1,9 +1,8 @@
 ---
 title: "Psy148a_homework_5_ExampleSolution"
 author: "Ricardo Zaragoza Castillo"
-date: "October 23, 2018"
+date: "November 12, 2018"
 output:
-  pdf_document: default
   html_document: default
 ---
 
